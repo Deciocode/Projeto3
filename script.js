@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
     async function fetchStyles() {
         try {
             // Nota: O caminho '/data.json' é assumido para um servidor de desenvolvimento.
-            const response = await fetch('/data.json'); 
+            const response = await fetch('./data.json'); 
             if (!response.ok) {
                 throw new Error(`Erro de HTTP: ${response.status}`);
             }
