@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Síncopa | A Batida do Jazz</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header role="banner">
+        <a href="#hero" class="logo">Síncopa.</a>
+        
+        <nav aria-label="Navegação principal do site">
+            <ul>
+                <li><a href="#styles-section">Estilos</a></li>
+                <li><a href="https://github.com/Deciocode" target="_blank" rel="noopener noreferrer">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="content" role="main">
+        <section id="hero" class="hero-section">
+            <h1 class="hero-title">Síncopa: O Ritmo da Alma Global.</h1>
+            <p class="hero-subtitle">Descubra a essência do Jazz. Clique para ouvir.</p>
+            
+            <button id="play-jazz-button" aria-label="Tocar a essência do Jazz">
+                Ouvir Jazz
+            </button>
+        </section>
+
+        <section id="styles-section" class="styles-section">
+            <h2 class="section-title">Subgêneros do Jazz</h2>
+            
+            <div class="styles-grid" id="jazz-grid">
+                </div>
+            
+            <aside class="more-info">
+                <p>Explore a história completa por trás de cada ritmo.</p>
+                <a href="historia.html">Saiba Mais</a>
+            </aside>
+        </section>
+
+        <audio id="global-audio-player" aria-hidden="true"></audio>
+    </main>
+
+    <footer role="contentinfo">
+        <p>Desenvolvido por <a href="https://github.com/Deciocode" target="_blank" rel="noopener noreferrer">Deciocode</a> | &copy; 2025 Projeto Sincopado.</p>
+        </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

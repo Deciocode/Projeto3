@@ -1,0 +1,111 @@
+[
+    {
+        "id": "bebop",
+        "title": "Bebop Revolution",
+        "year": "1940s",
+        "description": "Um estilo de jazz rápido e complexo que surgiu nos anos 40, caracterizado por andamentos acelerados, progressões harmônicas elaboradas e improvisações virtuosísticas.",
+        "artists": "Charlie Parker, Dizzy Gillespie, Thelonious Monk",
+        "image": "assets/bepop.jpg.png",
+        "audio": "assets/charlie parker.mp3" 
+    },
+    {
+        "id": "fusion",
+        "title": "Jazz Fusion",
+        "year": "1970s",
+        "description": "A fusão do jazz com elementos de rock, funk, R&B e música eletrônica. Conhecido por instrumentação elétrica, ritmos complexos e grande energia.",
+        "artists": "Miles Davis (Período Elétrico), Herbie Hancock, Chick Corea",
+        "image": "assets/fusionjazz.jpg",
+        "audio": "assets/chrispotter.mp3" 
+    },
+    {
+        "id": "cool",
+        "title": "Cool Jazz (West Coast)",
+        "year": "1950s",
+        "description": "Uma reação ao Bebop, o Cool Jazz é mais reservado, melódico e com andamentos mais lentos. Usa harmonias mais suaves e menos vibrato.",
+        "artists": "Miles Davis, Gerry Mulligan, Stan Getz",
+        "image": "assets/Miles Davis.jpg",
+        "audio": "assets/Miles Davis.mp3"
+    },
+    {
+        "id": "cuban",
+        "title": "Afro-Cuban Jazz (Latin Jazz)",
+        "year": "1940s-Presente",
+        "description": "Mistura a improvisação do jazz com os ritmos e instrumentos da música cubana, como congas, timbales e claves. Altamente rítmico e energético.",
+        "artists": "Dizzy Gillespie, Chano Pozo, Arturo Sandoval, Tito Puente",
+        "image": "assets/jazzcuban.jpg",
+        "audio": "assets/jazzcuban.mp3" 
+    },
+    {
+        "id": "african",
+        "title": "African Jazz",
+        "year": "1960s-Presente",
+        "description": "Envolve a incorporação de harmonias e ritmos tradicionais da África do Sul e Oeste Africano, frequentemente combinando percussão tribal com instrumentação de jazz ocidental.",
+        "artists": "Hugh Masekela, Fela Kuti, Abdullah Ibrahim",
+        "image": "assets/afrojazz.jpg",
+        "audio": "assets/felakuti.mp3" 
+    },
+
+    {
+        "id": "holiday",
+        "title": "Holiday Jazz",
+        "year": "Sazonal",
+        "description": "Clássicos de Natal e festivos arranjados com a instrumentação e harmonia do jazz, focando em um clima aconchegante e alegre.",
+        "artists": "Vince Guaraldi Trio, Ella Fitzgerald, Bing Crosby",
+        "image": "assets/holliday.jpg",
+        "audio": "assets/Ella.mp3" 
+    },
+    {
+        "id": "straight_ahead",
+        "title": "Straight Ahead Jazz (Classic Jazz)",
+        "year": "1950s-1960s",
+        "description": "O estilo pós-Bebop que mantém as formas tradicionais de melodia-improvisação-melodia. É o que a maioria considera 'Jazz Clássico'.",
+        "artists": "Art Blakey, Horace Silver, Cannonball Adderley",
+        "image": "assets/classicjazz.jpg",
+        "audio": "assets/Know What I Mean ((Take 12)) - Cannonball Adderley (youtube).mp3"
+    },
+    {
+        "id": "bossa_nova",
+        "title": "Bossa Nova",
+        "year": "1950s-1960s",
+        "description": "Estilo brasileiro que combina samba com jazz americano. Caracterizado por ritmos suaves e melodias líricas, ideal para ambientes leves.",
+        "artists": "João Gilberto, Tom Jobim, Stan Getz, Astrud Gilberto",
+        "image": "assets/bossanova.jpg",
+        "audio": "assets/There Will Never Be Another You - Stan Getz (youtube).mp3"
+    },
+    {
+        "id": "smooth_lounge",
+        "title": "Smooth Jazz & Lounge",
+        "year": "1980s-Presente",
+        "description": "Música ambiente, leve e relaxante. Agrupa os sons de 'Smooth Jazz', 'Cocktail Jazz' e 'Smooth Lounge' com foco na melodia e na produção polida. Perfeito para Dave Koz & Friends.",
+        "artists": "Kenny G, George Benson, Dave Koz, Grover Washington Jr.",
+        "image": "assets/smoothjazz.jpg",
+        "audio": "assets/Kenny G - The Moment (Official Video) - KennyGVEVO (youtube).mp3"
+    },
+    {
+        "id": "jazz_vocal_legends",
+        "title": "Vocal Legends (Sinatra Style)",
+        "year": "1940s-1960s",
+        "description": "Grandes canções americanas (Great American Songbook) interpretadas por vocalistas masculinos. Inclui o estilo clássico de crooners e o 'Modern Vocal Jazz'.",
+        "artists": "Frank Sinatra, Tony Bennett, Michael Bublé, Kurt Elling",
+        "image": "assets/fraksinatra.jpg",
+        "audio": "assets/My Way (2008 Remastered) - Frank Sinatra (youtube).mp3"
+    },
+    {
+        "id": "jazz_ballads",
+        "title": "Jazz Ballads & Mellow",
+        "year": "Diversas",
+        "description": "Músicas lentas, melancólicas e emotivas. Foco em performances vocais ou instrumentais que exploram o lirismo e a profundidade harmônica. Inclui 'Mellow Jazz'.",
+        "artists": "Bill Evans, Sarah Vaughan, Chet Baker",
+        "image": "assets/melow.jpg",
+        "audio": "assets/Almost Blue - Chet Baker (youtube).mp3"
+    },
+    {
+        "id": "gypsy_jazz",
+        "title": "Gypsy Jazz (Jazz Manouche)",
+        "year": "1930s-Presente",
+        "description": "Conhecido como o jazz de café, é caracterizado pela ausência de bateria e o uso proeminente de cordas (violão, baixo, violino).",
+        "artists": "Django Reinhardt, Stéphane Grappelli, Biréli Lagrène",
+        "image": "assets/manouche.jpg",
+        "audio": "assets/Sleepless - Rhythm Future Quartet (youtube).mp3"
+    }
+]
